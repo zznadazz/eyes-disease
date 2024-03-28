@@ -1,4 +1,4 @@
-# Eyes disease
+# Detection of eye diseases
 
 ## Introducion
 We have developed a desktop application that allows a healthcare professional to diagnose eye diseases using a pre-trained Deep Learning model and a fundus image.
